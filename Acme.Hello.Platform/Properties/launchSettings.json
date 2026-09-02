@@ -4,11 +4,12 @@
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": false,
+      "launchBrowser": true,
       "applicationUrl": "http://localhost:5034",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "launchUrl": "hhtp://localhost:5206/scalar/v1"
     },
     "https": {
       "commandName": "Project",
